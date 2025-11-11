@@ -10,13 +10,13 @@
 </div>
 
 <h3 align="center">About Me 🚀</h3>
-<p> I'm a passionate <b>[Your Job Title / Developer Role]</b>  with experience in <b>[technologies you're proficient in]</b>. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</p>
+<p> I'm a <b>Open Source Developer</b>  with experience in <b>[Web Development]</b>. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</p>
  
-<li>🌱 Currently learning: **[new technologies or skills you're currently learning]**
-<li> 🔭 Working on: **[current projects or side-projects]**
-<li> 🌍 Languages: **[programming languages and human languages you speak]**
-<li> 📫 How to reach me: **[your email address or other contact information]**
-<li> ⚡ Fun fact: **[a fun fact about yourself]**
+<li>🌱 Currently learning: **[Web 3]**
+<li> 🔭 Working on: **[Singularity.js]**
+<li> 🌍 Languages: **[Indonesia, English, javascript, typescript, bash]**
+<li> 📫 How to reach me: **[hackblock12@gmail.com, https://wa.me/6287718761419]**
+<li> ⚡ Fun fact: **[I can't pronounce the letter R]**
 
 
 
