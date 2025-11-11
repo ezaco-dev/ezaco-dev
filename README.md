@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">About Me 🚀</h3>
-<p> I'm a <b>Open Source Developer</b>  with experience in <b>[Web Development]</b>. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</p>
+<p> I'm a <b>Open Source Developer</b>  with experience in <b>Web Development</b>. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</p>
  
 <li>🌱 Currently learning: Web 3
 <li> 🔭 Working on: Singularity.js
