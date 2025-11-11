@@ -12,11 +12,11 @@
 <h3 align="center">About Me 🚀</h3>
 <p> I'm a <b>Open Source Developer</b>  with experience in <b>[Web Development]</b>. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</p>
  
-<li>🌱 Currently learning: **[Web 3]**
-<li> 🔭 Working on: **[Singularity.js]**
-<li> 🌍 Languages: **[Indonesia, English, javascript, typescript, bash]**
-<li> 📫 How to reach me: **[hackblock12@gmail.com, https://wa.me/6287718761419]**
-<li> ⚡ Fun fact: **[I can't pronounce the letter R]**
+<li>🌱 Currently learning: Web 3
+<li> 🔭 Working on: Singularity.js
+<li> 🌍 Languages: Indonesia, English, javascript, typescript, bash
+<li> 📫 How to reach me: hackblock12@gmail.com, https://wa.me/6287718761419
+<li> ⚡ Fun fact: I can't pronounce the letter R
 
 
 
