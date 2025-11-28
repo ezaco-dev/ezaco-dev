@@ -1,7 +1,7 @@
 const { createClient } = require('bedrock-protocol');
 
 const client = createClient({
-    host: "IP_SERVER",
+    host: "191.96.231.10",
     port: 19132,
     version: "1.21.124",
     username: "BotTesting",
