@@ -5,7 +5,7 @@ const client = createClient({
     port: 19132,
     version: "1.21.124",
     username: "BotTesting",
-    offline: false
+    offline: true
 });
 
 client.on('join', () => {
